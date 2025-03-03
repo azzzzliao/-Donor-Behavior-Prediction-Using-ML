@@ -8,5 +8,5 @@ This project focuses on analyzing and predicting donation behavior for a non-pro
 - **Matplotlib, Seaborn** – Data visualization
 - **Scikit-learn** – Machine learning models
 
-For more details on methodology, results, and findings, please refer to our **final report**.
-📄 [Final Report (PDF)](Final_Report.pdf)
+For more details on methodology, results, and findings, please refer to 📄 [Final Report (PDF)](Final_Report.pdf).
+
